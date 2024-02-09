@@ -38,10 +38,7 @@ Here's the code:
             document.write("react")
 
         }
-        // let H2 = document.querySelector('.test').innerHTML = "okay";
-
-        // console.log(H2)
-
+      
 
 
     </script>
