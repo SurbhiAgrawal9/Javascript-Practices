@@ -49,3 +49,9 @@ Here's the code:
 
 </html>
 ```
+
+#output
+
+```js
+javascriptreact
+```
