@@ -33,7 +33,12 @@ Here's the code:
             console.log(H3)
             H3.textContent = 'this is h3 tag';
             document.body.appendChild(H3);
-            
+
+         let H4 = document.createElement('h4');
+            H4.textContent = Date()
+            console.log(H4)
+            document.body.appendChild(H4)  //  for print date 
+   
             document.write("javascript")
             document.write("react")
 
