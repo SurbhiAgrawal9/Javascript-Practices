@@ -6,6 +6,7 @@ const isPalidrom = (str) => {
          reverse = reverse + str[i]
     }
         console.log(reverse)
+    //return str===reverse ? "true": "false";
         if(reverse === str){
             return true
         } else{
